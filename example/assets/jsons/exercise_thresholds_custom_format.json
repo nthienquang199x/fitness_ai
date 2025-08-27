@@ -1,0 +1,132 @@
+{
+    "squat": {
+        "easy": [{"knee_angle_min": 70, "knee_angle_max": 110, "hip_to_ground_min": 100}],
+        "medium": [{"knee_angle_min": 75, "knee_angle_max": 105, "hip_to_ground_min": 90}],
+        "hard": [{"knee_angle_min": 80, "knee_angle_max": 100, "hip_to_ground_min": 80}]
+    },
+    "mountain_climber": {
+        "easy": [{"knee_to_shoulder_distance_min": 50, "knee_to_shoulder_distance_max": 150}],
+        "medium": [{"knee_to_shoulder_distance_min": 40, "knee_to_shoulder_distance_max": 140}],
+        "hard": [{"knee_to_shoulder_distance_min": 30, "knee_to_shoulder_distance_max": 130}]
+    },
+    "burpee": {
+        "easy": [{"knee_angle_min": 70, "knee_angle_max": 110, "hip_to_ground_min": 100}],
+        "medium": [{"knee_angle_min": 75, "knee_angle_max": 105, "hip_to_ground_min": 90}],
+        "hard": [{"knee_angle_min": 80, "knee_angle_max": 100, "hip_to_ground_min": 80}]
+    },
+    "high_knees": {
+        "easy": [{"knee_to_shoulder_distance_min": 50, "knee_to_shoulder_distance_max": 150}],
+        "medium": [{"knee_to_shoulder_distance_min": 40, "knee_to_shoulder_distance_max": 140}],
+        "hard": [{"knee_to_shoulder_distance_min": 30, "knee_to_shoulder_distance_max": 130}]
+    },
+    "bicycle_crunch": {
+        "easy": [{"knee_to_elbow_distance_min": 30, "knee_to_elbow_distance_max": 120}],
+        "medium": [{"knee_to_elbow_distance_min": 25, "knee_to_elbow_distance_max": 110}],
+        "hard": [{"knee_to_elbow_distance_min": 20, "knee_to_elbow_distance_max": 100}]
+    },
+    "wall_sit": {
+        "easy": [{"knee_angle_min": 85, "knee_angle_max": 95}],
+        "medium": [{"knee_angle_min": 88, "knee_angle_max": 92}],
+        "hard": [{"knee_angle_min": 90, "knee_angle_max": 90}]
+    },
+    "tricep_dip": {
+        "easy": [{"elbow_angle_min": 70, "elbow_angle_max": 110}],
+        "medium": [{"elbow_angle_min": 75, "elbow_angle_max": 105}],
+        "hard": [{"elbow_angle_min": 80, "elbow_angle_max": 100}]
+    },
+    "step_up": {
+        "easy": [{"knee_angle_min": 70, "knee_angle_max": 110, "hip_to_ground_min": 100}],
+        "medium": [{"knee_angle_min": 75, "knee_angle_max": 105, "hip_to_ground_min": 90}],
+        "hard": [{"knee_angle_min": 80, "knee_angle_max": 100, "hip_to_ground_min": 80}]
+    },
+    "single_leg_deadlift": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100}]
+    },
+    "donkey_kick": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100}]
+    },
+    "bird_dog": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110, "knee_angle_min": 70, "knee_angle_max": 110}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105, "knee_angle_min": 75, "knee_angle_max": 105}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100, "knee_angle_min": 80, "knee_angle_max": 100}]
+    },
+    "leg_raise": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100}]
+    },
+    "jumping_jack": {
+        "easy": [{"hip_abduction_angle_min": 30, "hip_abduction_angle_max": 60}],
+        "medium": [{"hip_abduction_angle_min": 35, "hip_abduction_angle_max": 55}],
+        "hard": [{"hip_abduction_angle_min": 40, "hip_abduction_angle_max": 50}]
+    },
+    "static_lunge": {
+        "easy": [{"knee_angle_min": 70, "knee_angle_max": 110, "hip_to_ground_min": 100}],
+        "medium": [{"knee_angle_min": 75, "knee_angle_max": 105, "hip_to_ground_min": 90}],
+        "hard": [{"knee_angle_min": 80, "knee_angle_max": 100, "hip_to_ground_min": 80}]
+    },
+    "elevated_pushup": {
+        "easy": [{"elbow_angle_min": 70, "elbow_angle_max": 110}],
+        "medium": [{"elbow_angle_min": 75, "elbow_angle_max": 105}],
+        "hard": [{"elbow_angle_min": 80, "elbow_angle_max": 100}]
+    },
+    "glute_bridge": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110, "hip_height_min": 100}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105, "hip_height_min": 90}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100, "hip_height_min": 80}]
+    },
+    "bent_leg_inverted_row": {
+        "easy": [{"elbow_angle_min": 70, "elbow_angle_max": 110}],
+        "medium": [{"elbow_angle_min": 75, "elbow_angle_max": 105}],
+        "hard": [{"elbow_angle_min": 80, "elbow_angle_max": 100}]
+    },
+    "plank": {
+        "easy": [{"body_alignment_angle_min": 170, "body_alignment_angle_max": 190}],
+        "medium": [{"body_alignment_angle_min": 175, "body_alignment_angle_max": 185}],
+        "hard": [{"body_alignment_angle_min": 178, "body_alignment_angle_max": 182}]
+    },
+    "bulgarian_split_squat": {
+        "easy": [{"knee_angle_min": 70, "knee_angle_max": 110, "hip_to_ground_min": 100}],
+        "medium": [{"knee_angle_min": 75, "knee_angle_max": 105, "hip_to_ground_min": 90}],
+        "hard": [{"knee_angle_min": 80, "knee_angle_max": 100, "hip_to_ground_min": 80}]
+    },
+    "pushup": {
+        "easy": [{"elbow_angle_min": 70, "elbow_angle_max": 110}],
+        "medium": [{"elbow_angle_min": 75, "elbow_angle_max": 105}],
+        "hard": [{"elbow_angle_min": 80, "elbow_angle_max": 100}]
+    },
+    "single_leg_hip_thrust": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110, "hip_height_min": 100}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105, "hip_height_min": 90}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100, "hip_height_min": 80}]
+    },
+    "inverted_row": {
+        "easy": [{"elbow_angle_min": 70, "elbow_angle_max": 110}],
+        "medium": [{"elbow_angle_min": 75, "elbow_angle_max": 105}],
+        "hard": [{"elbow_angle_min": 80, "elbow_angle_max": 100}]
+    },
+    "superman_pose": {
+        "easy": [{"body_alignment_angle_min": 170, "body_alignment_angle_max": 190}],
+        "medium": [{"body_alignment_angle_min": 175, "body_alignment_angle_max": 185}],
+        "hard": [{"body_alignment_angle_min": 178, "body_alignment_angle_max": 182}]
+    },
+    "abs_alternating": {
+        "easy": [{"knee_to_elbow_distance_min": 30, "knee_to_elbow_distance_max": 120}],
+        "medium": [{"knee_to_elbow_distance_min": 25, "knee_to_elbow_distance_max": 110}],
+        "hard": [{"knee_to_elbow_distance_min": 20, "knee_to_elbow_distance_max": 100}]
+    },
+    "bridge": {
+        "easy": [{"hip_angle_min": 70, "hip_angle_max": 110, "hip_height_min": 100}],
+        "medium": [{"hip_angle_min": 75, "hip_angle_max": 105, "hip_height_min": 90}],
+        "hard": [{"hip_angle_min": 80, "hip_angle_max": 100, "hip_height_min": 80}]
+    },
+    "side_bridge": {
+        "easy": [{"body_alignment_angle_min": 170, "body_alignment_angle_max": 190}],
+        "medium": [{"body_alignment_angle_min": 175, "body_alignment_angle_max": 185}],
+        "hard": [{"body_alignment_angle_min": 178, "body_alignment_angle_max": 182}]
+    }
+}
